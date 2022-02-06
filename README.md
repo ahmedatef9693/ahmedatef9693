@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmedatef9693
 - 👀 I’m interested in machine learning , image processing and mobile apps
 - 🌱 I’m currently learning cross platform technologies
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on large scale projects for mobile apps using deep learning 
 - 📫 How to reach me ...
 
 <!---
