@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmedatef9693
+- 👋 Hi, I’m @ahmedatef
 - 👀 I’m interested in machine learning , image processing and mobile apps
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on large scale projects for mobile apps using deep learning 
